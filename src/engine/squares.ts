@@ -7,7 +7,7 @@ import {
   Queen,
   King,
   Knight,
-} from "./types";
+} from "../types";
 
 const squares: ISquares = {
   a1: {

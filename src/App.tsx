@@ -5,7 +5,10 @@ import ChessBoard from './components/Chessboard'
 
 function App() {
   return (
-    <ChessBoard/>
+    <div>
+      <ChessBoard/>
+    </div>
+   
   );
 }
 
